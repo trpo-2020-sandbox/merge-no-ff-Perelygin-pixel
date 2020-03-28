@@ -1,0 +1,1 @@
+int min_element(int* arr, int size)
